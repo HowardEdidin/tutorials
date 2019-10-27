@@ -15,5 +15,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- src/posts/hl7.md
