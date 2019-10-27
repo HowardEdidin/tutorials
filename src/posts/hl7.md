@@ -1,7 +1,10 @@
 ---
 date: 2019-10-27
-title: 'HL7 '
-tags: []
+title: HL7 FHIR on Azure - Device Framework
+tags:
+- Serverless
+- IoT
+- FHIR
 
 ---
 \---
